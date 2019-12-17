@@ -7,14 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F11926F222A3A5E00885808 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1F11926E222A3A5E00885808 /* GoogleService-Info.plist */; };
+		1F119273222A460E00885808 /* MainDashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F119272222A460E00885808 /* MainDashboard.swift */; };
+		1F119277222A4A5100885808 /* MainDashCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F119276222A4A5100885808 /* MainDashCustomCell.swift */; };
+		1F119279222A507A00885808 /* StateWideReports.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F119278222A507A00885808 /* StateWideReports.swift */; };
+		1F11927B222A756B00885808 /* ViewStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F11927A222A756B00885808 /* ViewStatus.swift */; };
+		1F11927D222A758000885808 /* QualityReports.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F11927C222A758000885808 /* QualityReports.swift */; };
+		1F11927F222A759C00885808 /* StpReports.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F11927E222A759C00885808 /* StpReports.swift */; };
+		1F119281222AA1D200885808 /* StpReportsCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F119280222AA1D200885808 /* StpReportsCustomCell.swift */; };
+		1F119283222AAF8A00885808 /* DatePickerTry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F119282222AAF8A00885808 /* DatePickerTry.swift */; };
+		1FAC8443222B56F200F0E000 /* ContactStp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAC8442222B56F200F0E000 /* ContactStp.swift */; };
+		1FAC8445222B64AA00F0E000 /* ContactStpCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAC8444222B64AA00F0E000 /* ContactStpCustomCell.swift */; };
+		1FAC8447222B6C4100F0E000 /* ContactStpDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAC8446222B6C4100F0E000 /* ContactStpDetails.swift */; };
+		1FAC8449222B869800F0E000 /* AdminDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAC8448222B869800F0E000 /* AdminDetails.swift */; };
+		1FB1F13922252E2C00729CED /* PickerTry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB1F13822252E2C00729CED /* PickerTry.swift */; };
+		1FD988372222D5E6001FAD5B /* StpMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD988362222D5E6001FAD5B /* StpMap.swift */; };
+		1FE27EA0222686E000F6A902 /* LineChartTry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE27E9F222686E000F6A902 /* LineChartTry.swift */; };
+		3830EF7D461D90DFD6F893B8 /* Pods_STP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8536E17775A9FB86D6FC7345 /* Pods_STP.framework */; };
 		7835ABEC2222662900C9A365 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7835ABEB2222662900C9A365 /* AppDelegate.swift */; };
 		7835ABEE2222662900C9A365 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7835ABED2222662900C9A365 /* ViewController.swift */; };
 		7835ABF12222662900C9A365 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7835ABEF2222662900C9A365 /* Main.storyboard */; };
 		7835ABF32222662900C9A365 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7835ABF22222662900C9A365 /* Assets.xcassets */; };
 		7835ABF62222662900C9A365 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7835ABF42222662900C9A365 /* LaunchScreen.storyboard */; };
+		7835AC002222793900C9A365 /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7835ABFF2222793900C9A365 /* Dashboard.swift */; };
+		7835AC0222227A1800C9A365 /* CustomCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7835AC0122227A1800C9A365 /* CustomCollectionCell.swift */; };
+		7835AC0622227A8E00C9A365 /* StpDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7835AC0522227A8E00C9A365 /* StpDetails.swift */; };
+		7860DB15222285B5001F6D23 /* ViewStpMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7860DB14222285B5001F6D23 /* ViewStpMap.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F11926E222A3A5E00885808 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		1F119272222A460E00885808 /* MainDashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainDashboard.swift; sourceTree = "<group>"; };
+		1F119276222A4A5100885808 /* MainDashCustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainDashCustomCell.swift; sourceTree = "<group>"; };
+		1F119278222A507A00885808 /* StateWideReports.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateWideReports.swift; sourceTree = "<group>"; };
+		1F11927A222A756B00885808 /* ViewStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewStatus.swift; sourceTree = "<group>"; };
+		1F11927C222A758000885808 /* QualityReports.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QualityReports.swift; sourceTree = "<group>"; };
+		1F11927E222A759C00885808 /* StpReports.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StpReports.swift; sourceTree = "<group>"; };
+		1F119280222AA1D200885808 /* StpReportsCustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StpReportsCustomCell.swift; sourceTree = "<group>"; };
+		1F119282222AAF8A00885808 /* DatePickerTry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerTry.swift; sourceTree = "<group>"; };
+		1FAC8442222B56F200F0E000 /* ContactStp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactStp.swift; sourceTree = "<group>"; };
+		1FAC8444222B64AA00F0E000 /* ContactStpCustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactStpCustomCell.swift; sourceTree = "<group>"; };
+		1FAC8446222B6C4100F0E000 /* ContactStpDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactStpDetails.swift; sourceTree = "<group>"; };
+		1FAC8448222B869800F0E000 /* AdminDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdminDetails.swift; sourceTree = "<group>"; };
+		1FB1F13822252E2C00729CED /* PickerTry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerTry.swift; sourceTree = "<group>"; };
+		1FD988362222D5E6001FAD5B /* StpMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StpMap.swift; sourceTree = "<group>"; };
+		1FE27E9F222686E000F6A902 /* LineChartTry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineChartTry.swift; sourceTree = "<group>"; };
+		414330691A5770575CFF83CE /* Pods-STP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-STP.release.xcconfig"; path = "Pods/Target Support Files/Pods-STP/Pods-STP.release.xcconfig"; sourceTree = "<group>"; };
+		5FDE8DC16509C4E39F03D632 /* Pods-STP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-STP.debug.xcconfig"; path = "Pods/Target Support Files/Pods-STP/Pods-STP.debug.xcconfig"; sourceTree = "<group>"; };
 		7835ABE82222662900C9A365 /* STP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = STP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7835ABEB2222662900C9A365 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7835ABED2222662900C9A365 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +61,11 @@
 		7835ABF22222662900C9A365 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7835ABF52222662900C9A365 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7835ABF72222662900C9A365 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7835ABFF2222793900C9A365 /* Dashboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
+		7835AC0122227A1800C9A365 /* CustomCollectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCollectionCell.swift; sourceTree = "<group>"; };
+		7835AC0522227A8E00C9A365 /* StpDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StpDetails.swift; sourceTree = "<group>"; };
+		7860DB14222285B5001F6D23 /* ViewStpMap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewStpMap.swift; sourceTree = "<group>"; };
+		8536E17775A9FB86D6FC7345 /* Pods_STP.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_STP.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3830EF7D461D90DFD6F893B8 /* Pods_STP.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +85,8 @@
 			children = (
 				7835ABEA2222662900C9A365 /* STP */,
 				7835ABE92222662900C9A365 /* Products */,
+				CF78851670A8726276FA01D4 /* Pods */,
+				9BA981E42CC65DA2460BE617 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,8 +107,45 @@
 				7835ABF22222662900C9A365 /* Assets.xcassets */,
 				7835ABF42222662900C9A365 /* LaunchScreen.storyboard */,
 				7835ABF72222662900C9A365 /* Info.plist */,
+				1F11926E222A3A5E00885808 /* GoogleService-Info.plist */,
+				7835ABFF2222793900C9A365 /* Dashboard.swift */,
+				7835AC0122227A1800C9A365 /* CustomCollectionCell.swift */,
+				7835AC0522227A8E00C9A365 /* StpDetails.swift */,
+				7860DB14222285B5001F6D23 /* ViewStpMap.swift */,
+				1FD988362222D5E6001FAD5B /* StpMap.swift */,
+				1FB1F13822252E2C00729CED /* PickerTry.swift */,
+				1FE27E9F222686E000F6A902 /* LineChartTry.swift */,
+				1F119272222A460E00885808 /* MainDashboard.swift */,
+				1F119276222A4A5100885808 /* MainDashCustomCell.swift */,
+				1F119278222A507A00885808 /* StateWideReports.swift */,
+				1F11927A222A756B00885808 /* ViewStatus.swift */,
+				1F11927C222A758000885808 /* QualityReports.swift */,
+				1F11927E222A759C00885808 /* StpReports.swift */,
+				1F119280222AA1D200885808 /* StpReportsCustomCell.swift */,
+				1F119282222AAF8A00885808 /* DatePickerTry.swift */,
+				1FAC8442222B56F200F0E000 /* ContactStp.swift */,
+				1FAC8444222B64AA00F0E000 /* ContactStpCustomCell.swift */,
+				1FAC8446222B6C4100F0E000 /* ContactStpDetails.swift */,
+				1FAC8448222B869800F0E000 /* AdminDetails.swift */,
 			);
 			path = STP;
+			sourceTree = "<group>";
+		};
+		9BA981E42CC65DA2460BE617 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8536E17775A9FB86D6FC7345 /* Pods_STP.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CF78851670A8726276FA01D4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5FDE8DC16509C4E39F03D632 /* Pods-STP.debug.xcconfig */,
+				414330691A5770575CFF83CE /* Pods-STP.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +155,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7835ABFA2222662900C9A365 /* Build configuration list for PBXNativeTarget "STP" */;
 			buildPhases = (
+				3F9F8A00CB89C08B52ECA95B /* [CP] Check Pods Manifest.lock */,
 				7835ABE42222662900C9A365 /* Sources */,
 				7835ABE52222662900C9A365 /* Frameworks */,
 				7835ABE62222662900C9A365 /* Resources */,
+				D2962E4FE1BE945FF6861741 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -96,6 +182,7 @@
 				TargetAttributes = {
 					7835ABE72222662900C9A365 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 9ZF9BX8WR8;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -124,6 +211,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7835ABF62222662900C9A365 /* LaunchScreen.storyboard in Resources */,
+				1F11926F222A3A5E00885808 /* GoogleService-Info.plist in Resources */,
 				7835ABF32222662900C9A365 /* Assets.xcassets in Resources */,
 				7835ABF12222662900C9A365 /* Main.storyboard in Resources */,
 			);
@@ -131,13 +219,77 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		3F9F8A00CB89C08B52ECA95B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-STP-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D2962E4FE1BE945FF6861741 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-STP/Pods-STP-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Charts/Charts.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Charts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-STP/Pods-STP-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		7835ABE42222662900C9A365 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F11927D222A758000885808 /* QualityReports.swift in Sources */,
+				1F119281222AA1D200885808 /* StpReportsCustomCell.swift in Sources */,
+				1F11927F222A759C00885808 /* StpReports.swift in Sources */,
+				7835AC0622227A8E00C9A365 /* StpDetails.swift in Sources */,
+				7860DB15222285B5001F6D23 /* ViewStpMap.swift in Sources */,
+				1F119277222A4A5100885808 /* MainDashCustomCell.swift in Sources */,
+				1F11927B222A756B00885808 /* ViewStatus.swift in Sources */,
+				7835AC0222227A1800C9A365 /* CustomCollectionCell.swift in Sources */,
+				1F119283222AAF8A00885808 /* DatePickerTry.swift in Sources */,
+				1FE27EA0222686E000F6A902 /* LineChartTry.swift in Sources */,
+				1FAC8445222B64AA00F0E000 /* ContactStpCustomCell.swift in Sources */,
+				1F119279222A507A00885808 /* StateWideReports.swift in Sources */,
 				7835ABEE2222662900C9A365 /* ViewController.swift in Sources */,
+				1FAC8443222B56F200F0E000 /* ContactStp.swift in Sources */,
+				1F119273222A460E00885808 /* MainDashboard.swift in Sources */,
+				1FAC8449222B869800F0E000 /* AdminDetails.swift in Sources */,
+				7835AC002222793900C9A365 /* Dashboard.swift in Sources */,
+				1FAC8447222B6C4100F0E000 /* ContactStpDetails.swift in Sources */,
 				7835ABEC2222662900C9A365 /* AppDelegate.swift in Sources */,
+				1FD988372222D5E6001FAD5B /* StpMap.swift in Sources */,
+				1FB1F13922252E2C00729CED /* PickerTry.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -204,7 +356,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -248,7 +400,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -258,11 +410,13 @@
 		};
 		7835ABFB2222662900C9A365 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5FDE8DC16509C4E39F03D632 /* Pods-STP.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9ZF9BX8WR8;
 				INFOPLIST_FILE = STP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = practice2.STP;
+				PRODUCT_BUNDLE_IDENTIFIER = practice29.STP;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -270,11 +424,13 @@
 		};
 		7835ABFC2222662900C9A365 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 414330691A5770575CFF83CE /* Pods-STP.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9ZF9BX8WR8;
 				INFOPLIST_FILE = STP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = practice2.STP;
+				PRODUCT_BUNDLE_IDENTIFIER = practice29.STP;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -299,6 +455,7 @@
 				7835ABFC2222662900C9A365 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
